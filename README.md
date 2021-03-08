@@ -1,7 +1,27 @@
 # NIA-Body-Cancer-Project
 
 # NIA 체부암 인공지능 데이터 구축 및 활용
-- 체부암(폐암, 갑상선암, 유방암)
+- 체부암
+    - 폐암
+    - 갑상선암
+    - 유방암
+
+- 폐암
+  1. Chest CT (CCT)
+  2. PET CT (PCT)
+  3. X-Ray (XRY)
+
+- 갑상선암
+  1. Neck CT (NCT)
+  2. Pathology (PTH)
+  3. Ultrasound (ULS)
+
+- 유방암
+  1. MammoGraphy
+  2. Ultrasound
+  3. MRI
+
+
 - 컨소시엄
   - NIA
   - AITrics
