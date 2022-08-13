@@ -1,4 +1,6 @@
 # Azure Kinect Offline Image Transformation
+## Need
+- Conect Any Azure Kinect to PCs
 
 ## WorkFlow
 1. Get Original Depth Image
