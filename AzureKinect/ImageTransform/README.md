@@ -4,7 +4,7 @@
 
 ## Our Folders
 - Depth Image : AzureKinectData/<yymmdd>/<subject_id>/<record_sequence>/<2_DepthImage>/<kinect_location>/*.png
-- Calibration JSON : AzureKinectData\\<yymmdd>\\<subject_id>\\<record_sequence>\\<6_CameraInfo>\\*.json
+- Calibration JSON : AzureKinectData/<yymmdd>/<subject_id>/<record_sequence>/<6_CameraInfo>/*.json
 
 ## WorkFlow
 1. Get Original Depth Image
