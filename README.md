@@ -32,4 +32,16 @@
   - Spatial Analytics란? 실시간 영상 화면의 임의의 공간에 직선 또는 다각형 도형을 그려서 해당 구역으로 사람 또는 물체가 들어오는지 나가는지, 어떠한 경로로 움직이는지를 분석하는 서비스
 
 - Azure Kinect DK
-  - Azure Kinect DK란?
+  - Azure Kinect DK란? RGB-D의 카메라로 일반 카메라 센서와 Depth 센서를 이용하여 2차원 및 3차원으로 촬영하는 카메라이며, Body Tracking을 지원하여 사람의 신체를 Detect하여 신체의 32개의 관절 좌표 및 Body Segment를 그려준다.
+  - 과제 : Azure Kinect DK 여러 대를 사용하여 신체 활동 게임을 진행하는 피험자의 신체를 3차원으로 스캔하여 실시간으로 RGB 이미지와 Depth, IR 이미지 및 2&3차원 관절 좌표 및 내적, 각 관절 별 x,y,z축 평면에서의 각도를 추출하는 프로그램 제작
+  - 하드웨어 요구사항
+    - CPU : Intel 10세대 i7 이상
+    - GPU : RTX 20XX 이상
+    - RAM : 16GB 이상
+    - 저장장치 : SSD
+  - Framework : C# WPF
+  - 수행 역할
+    - 실시간 데이터 수집 코드 구성
+    - 화면 UI 구성
+    - 피험자 데이터 클라우드 관리
+    - 데이터 형식 구성 및 검수
