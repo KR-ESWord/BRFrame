@@ -1,12 +1,6 @@
 # BRFrame
 
 - Azure Cognitive Service
-  - Azure Cognitive Service를 이용하여 SK TNS에서 제공한 건설 현장 촬영 사진을 통한 Computer Vision을 이용한 안전 진단 프로젝트
-  - Process 1. 건설 작업 현장에서 작업자의 안전 장비 착용 유무 및 현장 안전 설비 설치 유무 Classification 및 Object Detection 진행
-  - Process 2. 건설 현장 관리자의 안전 진단 체크리스트 문서에서 항목별 체크 여부 및 관리자 서명 여부의 OCR
-  - 수행 역할
-    - 이미지 데이터 라벨링
-    - Azure Cognitive Service API를 이용한 Python 학습 코드 및 추론 코드 구성
 
 - Azure IoT Hub & Central
   - Azure의 IoT Hub 및 Central 서비스 교육 및 데모 진행
