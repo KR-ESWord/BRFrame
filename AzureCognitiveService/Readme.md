@@ -1,7 +1,8 @@
 # Azure Cognitive Service POC
 
-## 기간 : 2020.06 ~ 2020.06
-## 대상 : SK TNS
+- 기간 : 2020.06 ~ 2020.06
+
+- 대상 : SK TNS
 
 - 개요 : Azure Cognitive Service의 API를 이용하여 Computer Vision 모형을 학습하여 건설 작업 현장에서의 안전 상태 판별을 위한 POC 수행
 
